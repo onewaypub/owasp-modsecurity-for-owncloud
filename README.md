@@ -12,4 +12,6 @@ changed possible mime types and removed all file extension restrictions, because
 
 This verions of rules is currently valid for owncloud 8.x
 
+Tested on Ubuntu 14.10 and owncloud 8.x
+
 
